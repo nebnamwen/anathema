@@ -1,0 +1,30 @@
+Escape from Anathema Mines
+=====================================================================
+(c) 2005 Phil Hassey, see COPYING for details
+http://www.imitationpickles.org/ld486/ - for contest details, etc
+=====================================================================
+
+Story
+-----
+You've been a slave for too long, escape the
+Anathema mines!
+
+Controls
+--------
+left, right - change direction
+up, down - run forward / backward
+ctrl - turn on/off flashlight
+
+enter, p, space - pause
+escape - quit
+
+Instructions
+------------
+Pick up batteries for more power, turn off flashlight to
+ - hide from guards
+ - conserve battery power
+
+Scoring
+-------
+Get points for collecting batteries, finishing the level quickly,
+and having left over battery power.
